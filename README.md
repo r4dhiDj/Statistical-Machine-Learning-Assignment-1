@@ -13,8 +13,8 @@ The test data is a list of 2,000 edges, and the task is to predict if each of th
 
 1. Load the Final_SML_Project.ipynb notebook in JupyterLab.
 
-2. Input the location of Training and test file (Default is set to load from google drive colab notebook folder.):
-    TRAIN_FILE = '/content/drive/My Drive/Colab Notebooks/train.txt'
+2. Input the location of Training and test file (Default is set to load from google drive colab notebook folder.):  
+    TRAIN_FILE = '/content/drive/My Drive/Colab Notebooks/train.txt'  
     TEST_FILE = '/content/drive/My Drive/Colab Notebooks/test-public.txt'
     
 3. Set the value of Total_edges_used_for_training_of_each_class to the desired value of TPs and TNs you need the model to use for training.
