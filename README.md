@@ -24,6 +24,8 @@ The test data is a list of 2,000 edges, and the task is to predict if each of th
     
 4. Change the loaction of output file (submission_voting_XGB_ADA.csv and Submission_bagging.csv) to be stored after the prediction is done on the test file.  
    Default is again to store in google drive colab notebook folder.
+   
+5. Run all rows.
     
 # Constraints
-Due to limited resource avaible right now at the max only 100,000k true positive and 100,000 true negative edges can be used for training and not more than that.
+Due to limited resource avaible right now at the max only 100k true positive and 100k true negative edges can be used for training and not more than that.
