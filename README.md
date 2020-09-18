@@ -1,6 +1,5 @@
 # Statistical-Machine-Learning-Assignment-1
-Assignment 1 SML, 2020 Semester 2
-Group project by 40
+Assignment 1 SML, 2020 Semester 2, Group project 40
 
 # Link Prediction
 Link prediction is to predict the existence of a link between two nodes in a network.
